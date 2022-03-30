@@ -1,0 +1,70 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2578
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red40\green56\blue75;\red31\green177\blue138;\red255\green255\blue255;
+\red48\green156\blue189;}
+{\*\expandedcolortbl;;\cssrgb\c20392\c28627\c36863;\cssrgb\c10196\c73725\c61176;\cssrgb\c100000\c100000\c100000;
+\cssrgb\c21961\c67451\c78824;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{none\}}{\leveltext\leveltemplateid1\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}}
+\paperw11900\paperh16840\margl1440\margr1440\vieww35340\viewh21540\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs28 \cf2 \expnd0\expndtw0\kerning0
+\
+\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0
+\fs20 \cf2 \kerning1\expnd0\expndtw0 		\cf3 \expnd0\expndtw0\kerning0
+\
+\pard\pardeftab720\partightenfactor0
+
+\fs48 \cf2 Pros and Cons of Buying a Resale House\
+\pard\pardeftab720\partightenfactor0
+
+\fs32 \cf2 \cb4 Buying a house is one of the most important decisions you might be making in your life. With hundreds of options in the primary market, do not forget the resale or secondary market. A resale market is a great place to avail discounts at a time when the primary real estate market is facing a drop. The resale market also offer many options including ready-to-move-in as well as flexible payments and rapid possession.\cb1 \
+\cb4 If you are planning to invest in a resale house, you must be careful about choosing the location, interior, returns, investment etc., apart from floor plan, amenities and built area.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\fs44 \cf2 \cb4 Pros of Buying a Resale House:\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\fs32 \cf2 \cb4 Older the House, More Affordable the Price:\cb1 \
+\cb4 Second hand or resale homes are usually available at a more affordable rate than new houses. If the house is an individual property then the price of the property will be linked to the land on which it is on. You can also negotiate a lower cost based on the building\'92s age, interiors and fixtures of the house.\cb1 \
+\cb4 Planned Location:\cb1 \
+\cb4 Resale houses are usually old houses that have been built inside the city at the time there was available land, unlike new houses that are built in the suburbs. A resale property is usually located in an already formed neighbourhood, making it easier to live in that house.\cb1 \
+\cb4 Better Neighborhood and Ambiance:\cb1 \
+\cb4 Older houses on resale are built with certain uniqueness and lots of space. If old, the houses tend to have less cluttered atmosphere as well. If you find a resale house that is larger and is located in a residential locality and is available at a cheaper price, so it is a steal.\cb1 \
+\cb4 No EMI, No Rent:\cb1 \
+\cb4 On purchase of a resale house, you can save on the additional interest on the EMI being paid for house under construction. You are required to continue to pay {\field{\*\fldinst{HYPERLINK "https://www.bankbazaar.com/home-loan/emi-calculator.html"}}{\fldrslt \cf5 \ul \ulc5 EMI}} as well as interest, until completion of the house. In case of resale house, there are many options on already-constructed houses, saving you from paying rent.\cb1 \
+\cb4 Pre-installed Amenities:\cb1 \
+\cb4 In case of second hand houses, basic amenities and fixtures are usually already in place, fixed by the previous owner. Amenities such as gas, electricity, maintenance, security, water facilities is usually pre-arranged in such cases. If well taken care off, the amenities need not be re-installed. However, it may require some repairs before moving in.\cb1 \
+\cb4 Advantage of Tax Benefit:\cb1 \
+\cb4 Moving in to an old house immediately can help you avail tax benefit on the first monthly installment of a home loan. According to the Income Tax Act, a tax exemption of up to Rs.1 lakh on principal EMI can be availed under 80C, while a tax deduction of up to Rs.5 lakh can be availed on {\field{\*\fldinst{HYPERLINK "https://www.bankbazaar.com/home-loan-interest-rate.html"}}{\fldrslt \cf5 \ul \ulc5 home loan interest}} under 24B, in case of resale houses.\
+\
+\pard\pardeftab720\partightenfactor0
+
+\fs44 \cf2 Cons of Buying a Resale House:\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\fs32 \cf2 \cb4 Building\'92s Age:\cb1 \
+\cb4 You should find out the real age of the building before you finalize on it. It is advisable that the house you buy should not be above five years old or within ten years. A property older than ten years is not a good deal to invest on. As the return on the house is directly proportional to its age, you must choose a house that is not so old.\cb1 \
+\cb4 No Personalized Touch:\cb1 \
+\cb4 When buying a resale house, the house may reflect the choices or tastes of the previous owner, which can sometimes be unsettling.\cb1 \
+\cb4 Unpaid Building Dues:\cb1 \
+\cb4 You must ensure that all the dues levied on the building is paid by the previous owner before you take over the ownership. Sometimes un-cleared bills on maintenance, membership or towards society, fall on the new owner, who is unaware of the same.\cb1 \
+\cb4 Numerous Renovation Charges:\cb1 \
+\cb4 Despite a resale house being fully equipped, you should have an idea about the renovation charges that you may have to pay for, while or before moving into the house. Renovation related to painting, flooring, wood work and plumbing, may seem small, however once totalled can add up to a huge amount. You can be careful while choosing and select the one with the least renovation work required.\cb1 \
+\cb4 Low Home Insurance:\cb1 \
+\cb4 Usually insurance offered on a resale house is lower than in case of a new house. Most private insurance firms calculate the insurance coverage depending on the building\'92s age. Also, in such cases, when there is a theft or natural calamity, insurance companies offer very low refunds. This could be a hindrance and land you in a helpless situation if faced with the same.\cb1 \
+\cb4 High Down Payment:\cb1 \
+\cb4 If you decide to take a home loan for the purchase of a resale property, you will be required to pay 20% of the total value of the property as down payment. This amount is higher than the amount that builders charge. If your sole source of fund is a home loan, you could find it a little troublesome to arrange the entire amount for down payment.\cb1 \
+\cb4 Things to Remember When You Buying a Resale House:\cb1 \
+\cb4 Ensure that the property documents are checked by a lawyer and that you keep a copy of the property\'92s ownership papers.\cb1 \
+\cb4 Sometimes developers charge a fee for transfer of property between owners. Remember this fee can be negotiated or bargained.\cb1 \
+\cb4 Obtain an updated account statement of the property that clearly mentions any late penalties or interest dues from the previous buyer.\cb1 \
+\cb4 If there is a broker involved in your deal, ensure there are no unfair practices followed by the broker.\cb1 \
+\cb4 Check for finer details such as hidden flaws or defects in the house and try to fix them before you move in.\cb1 \
+\cb4 If choosing a furnished house, get all warranties for appliances in the house.\cb1 \
+\cb4 Speak to the neighbours around the property and explore the neighbourhood before you buy the house.\cb1 \
+\cb4 Keeping all these things in mind, you can make a mindful decision while purchasing a resale house. Do not forget that though it may be second hand, for you it will be a new place of stay.}
